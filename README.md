@@ -17,7 +17,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -127,7 +127,7 @@ vendor-performance-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/abhi2009iv/vendor-performance-analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
@@ -153,3 +153,4 @@ python scripts/get_vendor_summary.py
 - Improve marketing for underperforming vendors
 
 ---
+
